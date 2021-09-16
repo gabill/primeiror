@@ -1,2 +1,4 @@
 Meu primeiro novo arquivo.
 Uma atualização..
+
+esse texto veio da branch teste-merge via merge 
